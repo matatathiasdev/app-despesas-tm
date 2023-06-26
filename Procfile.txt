@@ -1,1 +1,1 @@
-web: uvicorn app.wsgi --log-file -
+web: uvicorn app:app
